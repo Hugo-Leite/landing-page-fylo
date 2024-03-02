@@ -1,0 +1,121 @@
+@media screen and (min-width: 999px) {
+    .link-header {
+        margin-right: 2.5rem;
+    }
+
+    article {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .section-article-01,
+    .section-article-02 {
+        width: 90%;
+        margin-right: 10%;
+    }
+
+    .heading-article-01 {
+        font-size: 1.7rem;
+        text-align: justify;
+    }
+
+    .paragraph-article-01 {
+        font-size: 1.2rem;
+        text-align: justify;
+        margin-bottom: 1.25rem;
+    }
+
+    .form-article-01 {
+        display: inline-block;
+    }
+
+    .input-article-01 {
+        width: 15.625rem;
+        margin-right: 0.8rem;
+    }
+
+    .input-article-01,
+    .input-early-access::placeholder {
+        font-size: 1.1rem;
+    }
+
+    .btn-article-01 {
+        width: 9rem;
+    }
+
+    .figure-article {
+        width: 50%;
+    }
+
+    .illustration-1 {
+        width: 18.75rem;
+        height: 18.75rem;
+    }
+
+    .heading-article-02 {
+        font-size: 1.5rem;
+        text-align: justify;
+        margin-bottom: 1rem;
+    }
+
+    .paragraph-article-02 {
+        font-size: 1rem;
+        text-align: justify;
+        margin-bottom: 0.8rem;
+    }
+
+    .section-link-operation-fylo {
+        left: -60%;
+        right: 0%;
+        font-size: 1rem;
+        margin-top: 0rem;
+    }
+
+    .illustration-2 {
+        width: 15rem;
+        height: 15rem;
+        margin-top: 10rem;
+    }
+
+    .card-comment {
+        margin-top: 5rem;
+    }
+
+    .section-early-access {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .section-early-access > div {
+        width: 50%;
+    }
+
+    .heading-early-access,
+    .paragraph-early-access {
+        text-align: justify;
+    }
+
+    .paragraph-early-access {
+        width: 80%;
+    }
+
+    .form-article-02 {
+        width: 50%;
+    }
+
+    .btn-early-access {
+        width: 14rem;
+        font-size: 1rem;
+        margin-left: -9.5rem;
+    }
+
+    .logo-footer {
+        margin-left: 7%;
+    }
+
+    footer > section {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
