@@ -8,7 +8,7 @@
 
  ## :pushpin: Projeto
  <img src="./images/mockups-fylo.png" alt=""/>
-
+ <a href="https://hugo-leite.github.io/landing-page-fylo/">Link do projeto</a>
  <br>
  <br>
 
