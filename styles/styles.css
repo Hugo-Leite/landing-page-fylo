@@ -133,15 +133,6 @@ form {
     justify-content: center;
 }
 
-.section-link-operation-fylo::after {
-    content: "";
-    background-color: #3c9f8f;
-    width: 200px;
-    height: 1.1px;
-    position: absolute;
-    bottom: -6px;
-}
-
 .link-operation-fylo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
